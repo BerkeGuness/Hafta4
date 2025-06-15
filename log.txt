@@ -1,5 +1,8 @@
-Author: BerkeGuness <berkegunes4@gmail.com>
-Date:    Sat Mar 15 12:42:05 2025 +0300
+commit 8700d0b23636cc49137811a9b72303157727d45b (HEAD -> main, origin/main, origin/HEAD)
+Author: BerkeGunes <berkegunes4@gmail.com>
+Date:   Sat Jun 14 20:49:19 2025 +0300
 
+ oku log ekledim
 
-    hafta 4
+commit 416d8fc4cd42be1f7983b71e8212f60b15c19ca8
+Author: BerkeGunes <berkegunes4@gmail.com>
