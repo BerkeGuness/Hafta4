@@ -6,3 +6,5 @@ Date:   Sat Jun 14 20:49:19 2025 +0300
 
 commit 416d8fc4cd42be1f7983b71e8212f60b15c19ca8
 Author: BerkeGunes <berkegunes4@gmail.com>
+
+Hafta 4
